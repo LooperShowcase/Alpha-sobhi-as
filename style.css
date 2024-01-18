@@ -1,0 +1,88 @@
+img {
+  width: 25%;
+}
+p,
+div {
+  font-size: 28px;
+}
+#Mydiv2 {
+  margin: 10px;
+  padding: 10px;
+}
+
+body {
+  background-color: rgb(29, 136, 52);
+}
+div {
+  background-color: rgb(255, 255, 255);
+}
+
+#Mydiv2 {
+  margin: 10px;
+  padding: 10px;
+}
+
+#title {
+  background-color: rgb(29, 136, 52);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+#title h1 {
+  line-height: 150px;
+  height: 150px;
+  border: 2px solid rgb(15, 93, 21);
+  margin: 0px;
+  padding: 0px 20px;
+}
+
+#nvidia_title {
+  background-color: rgb(38, 211, 53);
+}
+
+#myhr {
+  border: 7px solid;
+}
+
+a img {
+  width: 100% !important;
+}
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  display: inline-block;
+  font-size: 30px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+table, th, td{
+  border: 10px solid black;
+  font-size: 50px;
+}
+
+td{
+  padding: 100px;
+}
